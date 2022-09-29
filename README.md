@@ -1,7 +1,7 @@
 ### Olá! Me me chamo Pablo Cezar
 
 - 🔭  Freelancer nos tempos livres
-- 🌱 Estudando Python e Javascrip
+- 🌱 Estudando Python e C#
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Apaixonado por programção
 
