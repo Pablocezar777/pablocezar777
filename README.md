@@ -2,7 +2,7 @@
 
 🚀 Desenvolvedor Full Stack apaixonado por inovação, com foco em **I.A. aplicada**, **Arquitetura de Software** e tecnologias web modernas.
 
-🎯 Fundador da **INLIVE**, onde crio soluções que conectam pessoas e ideias através da tecnologia.
+🎯 Fundador da **INLIVE**, o ecossistemas que conecta: Criadores, comunidades, influenciadores e negócios.
 
 ---
 
